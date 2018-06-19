@@ -1,5 +1,5 @@
 {
-  "name": "utile-nfse-php",
+  "name": "adelio-junior/utile-nfse-php",
   "type": "library",
   "description": "Projeto para comunicação com webservices de nfs-e.",
   "keywords": ["nfse"],
