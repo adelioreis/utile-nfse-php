@@ -51,7 +51,7 @@
         <codigo>3106200</codigo>
         <nome>Belo Horizonte</nome>
         <uf>MG</uf>
-        <provedor>BHISS</provedor>
+        <provedor>bhiss</provedor>
         <urlHomologacao>https://bhisshomologa.pbh.gov.br/bhiss-ws/nfse</urlHomologacao>
         <urlProducao>https://bhissdigital.pbh.gov.br/bhiss-ws/nfse</urlProducao>
 
