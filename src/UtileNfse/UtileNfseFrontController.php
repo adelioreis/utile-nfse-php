@@ -53,7 +53,7 @@ class UtileNfseFrontController
     }
 
     private function getCidade($codigoMunicipio){
-        $pathXml = __DIR__ . "../../../resources/config/cidades_atendidas.xml";
+        $pathXml = __DIR__ . DIRECTORY_SEPARATOR . "../../resources/config/cidades_atendidas.xml";
         $xmlCidades = simplexml_load_file($pathXml);
         $cidadeReturn = null;
         foreach ($xmlCidades->cidade as $cidade) {
